@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "502264699330",
-    "project_id": "emptyproject-240e4",
-    "storage_bucket": "emptyproject-240e4.appspot.com"
+    "project_number": "904084882783",
+    "project_id": "delevary-7cd51",
+    "storage_bucket": "delevary-7cd51.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:502264699330:android:fe157ec7feebec29809e5b",
+        "mobilesdk_app_id": "1:904084882783:android:6627074b4c282cd60e62ea",
         "android_client_info": {
           "package_name": "com.example.empty_code"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAjesnnGuofEHDNyu2OXlbW4pAvGcu3nyA"
+          "current_key": "AIzaSyBj1on9lmH1lv2x5XYyQdafzdmQI9ai0n0"
         }
       ],
       "services": {
